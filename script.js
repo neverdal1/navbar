@@ -46,7 +46,3 @@ listname.appendChild(likontakt);
 listname.appendChild(liprosjekter);
 listname.appendChild(liomoss)
 
-
-
-
-
